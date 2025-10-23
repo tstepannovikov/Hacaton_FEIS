@@ -1,4 +1,3 @@
-// Элементы
 const dropZone = document.querySelector('.image_field');
 const fileInput = document.querySelector('.file-input');
 const fileName = document.querySelector('.file-name');
