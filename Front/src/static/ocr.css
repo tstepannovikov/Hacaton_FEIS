@@ -79,7 +79,7 @@ body {
     border: none;
     cursor: pointer;
     display: block;
-    margin: 20px auto;
+    margin: 30px auto;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
 }
 
@@ -107,8 +107,11 @@ body {
 
 .file-name {
     margin-top: 15px;
-    font-size: 14px;
-    color: #333;
+    margin-bottom: 15px;
+    font-size: 16px;
+    font-weight: 500;
+    color: #4B5563;
+    text-align: center;
 }
 
 .file-input {
