@@ -25,6 +25,13 @@ position: relative;
   transition: all 0.3s ease; 
 }
 
+.logo_image{
+    width: 150px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
 .image_field {
     display: flex;
     flex-direction: column;
